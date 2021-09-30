@@ -10,10 +10,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Like to explore new technologies and develop backend systems.\
-🎓 &nbsp;Currently studying Computer Science, learning Data Structures and developing web apps.\
+🎓 &nbsp;Currently studying Computer Science, Data Structures and developing web apps.\
 🌱 &nbsp;I'm on track for learning about Systems Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email!\
 🧸 pronouns : he/him\
 
 
@@ -51,8 +51,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="github.com/kadastross"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="www.linkedin.com/in/anasejaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/kadastross"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/anasejaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="anasejaz24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/LeoDamnVinci" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-aman34503" /></a>&nbsp;
 </p>
