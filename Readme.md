@@ -10,8 +10,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Like to explore new technologies and develop backend systems.\
-🎓 &nbsp;Currently studying Computer Science, and developing web apps.\
-🌱 &nbsp;I'm on track for learning about Systems Design, Data Structures.\
+🎓 &nbsp;Currently studying Computer Science, learning Data Structures and developing web apps.\
+🌱 &nbsp;I'm on track for learning about Systems Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
 🧸 pronouns : he/him\
