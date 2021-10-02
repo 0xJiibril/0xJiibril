@@ -1,5 +1,5 @@
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kadastross" alt="Anas" /> </p>
 <p align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=&color=3CF718&size=30&center=true&vCenter=true&width=800&height=100&lines=Hello+World!;I'm+Anas+%F0%9F%91%8B">
 </p>
