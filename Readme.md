@@ -14,7 +14,6 @@
 🌱 &nbsp;I'm on track for learning about Systems Design.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email!\
-🧸 pronouns : he/him\
 
 
  ## Github Stats
