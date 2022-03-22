@@ -17,11 +17,11 @@
 
 
  ## Github Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kadastross&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xJiibril&theme=dark)](https://git.io/streak-stats)
  <br>
 
 
-![kadastross' GitHub stats](https://github-readme-stats.vercel.app/api?username=kadastross&show_icons=true&theme=dark)
+![kadastross' GitHub stats](https://github-readme-stats.vercel.app/api?username=0xJiibril&show_icons=true&theme=dark)
 
 <hr>
 
